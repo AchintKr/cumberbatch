@@ -1,4 +1,4 @@
-cumberbatch
+Cumberbatch
 ===========
 
 Generates names similar to "Benedict Cumberbatch"
@@ -38,7 +38,7 @@ or from the command-line::
 Contributing
 ------------
 
-Feel free to fork me and create a pull request at
+Feel free to fork me and create a pull request at :- 
 https://github.com/brandones/cumberbatch
 
 
